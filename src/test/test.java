@@ -6,4 +6,8 @@ package test;
 public class test {
 
     int a=6;
+
+    public static void main(String[] args) {
+
+    }
 }
