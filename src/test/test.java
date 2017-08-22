@@ -5,7 +5,7 @@ package test;
  */
 public class test {
 
-
+    int h=4;
     int a=6;
     private void print(){}
     public static void main(String[] args) {
