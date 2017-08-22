@@ -5,8 +5,9 @@ package test;
  */
 public class test {
 
-    int a=6;
 
+    int a=6;
+    private void print(){}
     public static void main(String[] args) {
 
     }
